@@ -14,7 +14,7 @@ My GitHub page is http://github.com/Btorre0.
 
 * Lab 5
 
-   Lab 5, part 1, is also one of the interesting labs. It was the first time where we used arguments in our system. It was exciting. The thought of having the user interact with my program excited me. This program used the function 
+   Lab 5, part 1, is also one of the interesting labs. It was the first time where we used arguments in our system. It was exciting. The thought of having the user interact with my program excited me. This program used the function 'cin' for the first time. Pulling out of this program, I learned how to use arguments within the terminal and the code. 
 
 * Lab 12
 
